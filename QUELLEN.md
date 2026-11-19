@@ -67,7 +67,7 @@ Abgerufen am 07.11.2026. Nummern wie auf der Seite. Quellen [1], [5], [7], [11] 
 - **Opferzahl Kundus:** spätere Angaben (Bundestags-Untersuchungsausschuss 2011, EGMR-Urteil 2021) noch nicht geprüft. [10] zitiert die Washington Post mit „etwa 125 Getötete[n]“ (Sekundärangabe, nicht übernommen).
 - **Anzahl der Bomben:** spätere Darstellungen nennen zum Teil zwei Bomben; nicht geprüft.
 - **Widerspruch LeMO [3]:** „Bis Mitte 2014 fallen 54 deutsche Soldaten und drei Polizisten im Kampfeinsatz“ steht gegen [1] (35 von 59 gefallen). Vermutlich zählt LeMO alle Todesfälle als „gefallen“ (unbelegt). Auf der Seite nicht verwendet.
-- **Zurückgetretener Minister:** vermutlich Franz Josef Jung (damals Arbeitsminister); keine Quelle eingesehen.
+- **Zurückgetretener Minister:** geklärt 19.11.2026: Franz Josef Jung, Rücktritt als Arbeitsminister am 27.11.2009. [51] Deutschlandfunk „musste schließlich der dafür verantwortliche Minister Franz Josef Jung am 27. November 2009 zurücktreten“; [52] Bundestag „Jung trat Ende November 2009 vom zwischenzeitlich übernommenen Amt des Arbeitsministers … zurück“, ebd. Schneiderhan „Ende November 2009“.
 - **Abschlussbericht Untersuchungsausschuss Afghanistan:** Inhalt und Datum noch nicht geprüft.
 - **Getötete afghanische Ortskräfte, Zivilisten, Polizisten:** nicht recherchiert.
 
@@ -175,7 +175,7 @@ Offen: ZMSBw-Publikation „ISAF Regionalkommando Nord“ (opus4.kobv.de) war we
 
 ## Rechtliche Grundlagen (Abschnitt „Rechtliche Grundlagen“, ergänzt 09.11.2026)
 
-Abgerufen am 09.11.2026. Gruppen: [31]–[34] Vereinte Nationen; [35]–[37] NATO; [41]–[43], [46] Bundesregierung (wie [27]); [44] Bundestag; [38] bpb; [40] Bundeswehr. Innerhalb der Gruppen nicht unabhängig. [35]–[37] wurden nur in maschinell gekürzter Fassung gelesen; die Aussagen sind durch die jeweils zweite Quelle gedeckt.
+Abgerufen am 09.11.2026. Gruppen: [31]–[34] Vereinte Nationen; [35]–[37] NATO; [41]–[43], [46] Bundesregierung (wie [27]); [44] Bundestag; [38] bpb; [40] Bundeswehr. Innerhalb der Gruppen nicht unabhängig. [35]–[37] wurden nur in maschinell gekürzter Fassung gelesen; die Aussagen sind durch die jeweils zweite Quelle gedeckt. Ergänzt 19.11.2026: [49], [50] NATO (wie [35]–[37]); [51] Deutschlandfunk; [52] Deutscher Bundestag, Textarchiv.
 
 | Behauptung | Quellen | Passage (wörtlich, gekürzt) | Bewertung |
 |---|---|---|---|
@@ -187,7 +187,7 @@ Abgerufen am 09.11.2026. Gruppen: [31]–[34] Vereinte Nationen; [35]–[37] NAT
 | Art. 5: Angriff auf einen gilt als Angriff auf alle; Bezug Art. 51 | [35]; [38] | [35] „an armed attack against one or more of them … shall be considered an attack against them all“, „recognised by Article 51 of the Charter“; [38] Bündnisfall „nach Artikel 5 des Nordatlantikvertrags“ | belegt; Vertragstext selbst nicht wörtlich gelesen |
 | 12.09.2001: Bündnisfall unter Vorbehalt | [35]; [38]; [39] | [35] „it shall be regarded as an action covered by Article 5“ (wenn vom Ausland gesteuert); [38] „sobald zweifelsfrei feststehe, dass die Anschläge auf die USA vom Ausland ausgeführt worden seien“; [39] „wenn der Angriff auf die USA erwiesenermaßen von außen gekommen sei“ | belegt |
 | 02.10.2001: Robertson, USA legen Beweise vor | [35]; [38] | [38] „verkündete der damalige NATO-Generalsekretär Robertson, dass die USA schließlich Beweise“; [35] formelle Feststellung nach Unterrichtung | belegt |
-| Endgültiger Bündnisfall: 2.10. oder 4.10.2001 | [40]; [38]; [39] | [40] „Am 2. Oktober 2001 löste die NATO erstmals den Bündnisfall aus.“; [38] „am 4. Oktober 2001 einstimmig und erstmals in der Geschichte der NATO“; [39] „beschloss der NATO-Rat am 4. Oktober 2001, den Bündnisfall auszurufen“ | Widerspruch, auf der Seite offen genannt |
+| Endgültiger Bündnisfall: 2.10. oder 4.10.2001 | [40]; [38]; [39] | [40] „Am 2. Oktober 2001 löste die NATO erstmals den Bündnisfall aus.“; [38] „am 4. Oktober 2001 einstimmig und erstmals in der Geschichte der NATO“; [39] „beschloss der NATO-Rat am 4. Oktober 2001, den Bündnisfall auszurufen“ | Widerspruch, auf der Seite offen genannt; geklärt 19.11.2026: [49] NATO „On 2 October 2001 … it determined that they were effectively regarded as an action covered by Article 5“, „On 4 October 2001, NATO agreed on a package of eight measures“; [50] Presseerklärung 04.10.2001. Beide Daten richtig, unterschiedlicher Bezug. |
 | Erstes und einziges Mal Art. 5 | [35]; [38] | [38] „erstmals in der Geschichte der NATO“; [35] einziger Fall bisher; bpb 2024 (Ewers-Peters) „bisher nur einmal ausgelöst“ | belegt |
 | ISAF auf UN-Mandat, NATO-Führung ab August 2003 | [36]; [38]; [42] | [36] „On 11 August 2003, NATO assumed leadership“, Grundlage UN-Mandat nach Kapitel VII; [38] NATO-Kommando ab August 2003; [42] Grundlage Res. 1386 | belegt |
 | Parlamentsvorbehalt BVerfG 12.07.1994, ParlBG 2005 | [47]; [48]; [10] | [47] Leitsatz 3a „die grundsätzlich vorherige konstitutive Zustimmung des Deutschen Bundestages einzuholen“; [48] § 1 Abs. 2 „bedarf der Zustimmung des Bundestages“; [10] S. 37 f. | belegt |
