@@ -207,3 +207,17 @@ Abgerufen am 09.11.2026. Gruppen: [31]–[34] Vereinte Nationen; [35]–[37] NAT
 | Bundesadler, Bundesdienstflagge | „Wenn Sie eine Darstellung des Bundesadlers verwenden möchten, müssen Sie eine Genehmigung beantragen.“; § 124 OWiG | Bundesverwaltungsamt, Stand 19.01.2026; gesetze-im-internet.de | nicht verwendet |
 | UN-Emblem | „the UN emblem and seal could not be used without the authorization of the Secretary-General“; die UN-Flagge dürfe gezeigt werden, um Unterstützung für die UN auszudrücken | UN, The United Nations Flag (nflag.pdf), ohne Datum | eigene Zeichnung ohne Emblem |
 | NATO-Logo/Embleme | Dritte müssen vorher eine Genehmigung der NATO einholen (nur in gekürzter Fassung gelesen) | NATO, Use of NATO content and brand, ohne Datum | eigene Zeichnung ohne Emblem; nicht ausreichend belegt |
+
+## Begriffserklärungen (ergänzt 22.11.2026)
+
+Abgerufen am 22.11.2026. Die Erklärungen stehen beim ersten Vorkommen des Begriffs im Fließtext. Wikipedia und Constellatio sind nur ergänzend genutzt.
+
+| Begriff (Erklärung auf der Seite) | Quellen | Passage (wörtlich, gekürzt) | Bewertung |
+|---|---|---|---|
+| Kapitel VII: erlaubt dem Sicherheitsrat Zwangsmaßnahmen bis hin zum Einsatz von Streitkräften | [56]; [57] | [56] Art. 39: „Der Sicherheitsrat stellt fest, ob eine Bedrohung oder ein Bruch des Friedens … vorliegt; er … beschließt, welche Maßnahmen aufgrund der Artikel 41 und 42 zu treffen sind“; [57] „kann er nach Kapitel VII der UN-Charta nicht-militärische und militärische Zwangsmaßnahmen beschließen“ | belegt; Wortlaut von Art. 42 im Abruf abgeschnitten |
+| Truppenstatut: regelt die Rechtsstellung ausländischer Soldaten im Gastland | [58]; [59] | [58] „NATO-Truppenstatuts vom 19. Juni 1951 (Abkommen zwischen den Parteien des Nordatlantikvertrags über die Rechtsstellung ihrer Truppen …)“ | Kern belegt durch [58]; [59] (UNTERM) am 22.11.2026 beim erneuten Abruf ohne lesbaren Inhalt, Passage daher nicht vorgelegt; nicht ausreichend doppelt belegt |
+| Panzergrenadierzug: Teileinheit einer Kompanie, ausgerüstet mit Schützenpanzern | [60]; [61]; [66] | [60] Kompanie: „Sie besteht aus mehreren Zügen“; [61] „Der Zug ist häufig die größte Teileinheit unterhalb einer Einheit wie der Kompanie.“; [66] „Der Schützenpanzer Puma ist das Hauptwaffensystem der Panzergrenadiere.“ | „Teileinheit einer Kompanie“ belegt; „mit Schützenpanzern“ nur Bundeswehr ([66], ergänzt 22.11.2026; Bundeswehr-Seite Panzergrenadierbataillon 33 „Ihr Hauptwaffensystem ist der Schützenpanzer.“ gleicher Herausgeber, nicht unabhängig) |
+| Generalinspekteur: ranghöchster Soldat der Bundeswehr | [62]; [63] | [62] „Als ranghöchster Soldat …“; [63] „neuer Generalinspekteur und damit ranghöchster Soldat der Bundeswehr“ | belegt |
+| Enquete-Kommission: Gremium aus Abgeordneten und Sachverständigen, bereitet Entscheidungen über umfangreiche Themen vor | [64]; [65] | [64] § 56 Abs. 1: „Zur Vorbereitung von Entscheidungen über umfangreiche und bedeutsame Sachkomplexe kann der Bundestag eine Enquete-Kommission einsetzen.“; [65] „in der Enquête-Kommission hingegen auch Experten und Expertinnen, die keine Abgeordnete sind“ | belegt |
+
+Erledigt 22.11.2026: [66] als Beleg für „mit Schützenpanzern“ ergänzt (nur Bundeswehr-Quelle).
